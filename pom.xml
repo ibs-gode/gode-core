@@ -52,7 +52,7 @@
 		<cqengine.version>3.5.0</cqengine.version>
 		<liquibase.version>3.10.0</liquibase.version>
 		<liquibase-hibernate5.version>3.10.0</liquibase-hibernate5.version>
-		<elasticsearch.version>6.8.0</elasticsearch.version>
+		<elasticsearch.version>6.8.15</elasticsearch.version>
 		<spring.elasticsearch.version>3.2.0.RELEASE</spring.elasticsearch.version>
 	</properties>
 
